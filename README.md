@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi! My name is Luiz Gustavo 👋
 
-<!--
-**lgustavoklipper/lgustavoklipper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 System Analysis and Development (ADS) Student at FAESA
 
-Here are some ideas to get you started:
+📊 Interested in Data & Data Engineering
+🔐 Interested in Cybersecurity
+☁ Interested in Cloud Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning:
+Java · Python · SQL · Linux
+
+🎯 Career Goals
+Building a career in technology with a focus on Data, Cybersecurity and Cloud Computing, while turning academic knowledge into practical projects.
+
+🚀 My Journey
+This profile documents my learning journey trhoughout my System Analysis and Development degree at FAESA, including academic projects, experiments, studies and personal projects.
