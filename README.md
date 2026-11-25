@@ -9,8 +9,8 @@
 💻 Currently learning:
 Java · Python · SQL · Linux
 
-🎯 Career Goals
+🎯 Career Goals:
 Building a career in technology with a focus on Data, Cybersecurity and Cloud Computing, while turning academic knowledge into practical projects.
 
-🚀 My Journey
+🚀 My Journey:
 This profile documents my learning journey trhoughout my System Analysis and Development degree at FAESA, including academic projects, experiments, studies and personal projects.
